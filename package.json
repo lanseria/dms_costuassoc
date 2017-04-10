@@ -1,0 +1,22 @@
+{
+  "name": "dmsstu",
+  "version": "1.0.0",
+  "description": "一个大学生社团分布式管理平台",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lanseria/DMS_CoStuAssoc.git"
+  },
+  "keywords": [
+    "dms"
+  ],
+  "author": "lanseria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lanseria/DMS_CoStuAssoc/issues"
+  },
+  "homepage": "https://github.com/Lanseria/DMS_CoStuAssoc#readme"
+}
